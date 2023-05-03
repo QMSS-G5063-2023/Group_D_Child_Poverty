@@ -1,7 +1,7 @@
 # Group_D_Poverty
-Child poverty in the United States
-Project webpage: here
-Video presentation: here
+Child poverty in the United States <br>
+Project webpage: here <br>
+Video presentation: here 
 
 # Team members
 Eunho Cha, Jiwan Lee, and Yihang Sun

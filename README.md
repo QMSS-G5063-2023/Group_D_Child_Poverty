@@ -4,7 +4,7 @@
 * [`Video presentation`](https://www.youtube.com/watch?v=LAvSCH9eQmg) <br>
 * [`Process book`](https://github.com/QMSS-G5063-2023/Group_D_Child_Poverty/blob/main/Process%20book/logseq_Process_book.png) <br>
 * [`Code`](https://github.com/QMSS-G5063-2023/Group_D_Child_Poverty/blob/main/Code/Final_poverty.rmd) <br>
-* [`Data 1 - Historic SPM`](https://drive.google.com/file/d/14Hw9Z5zdIueeDLbc20FT94Q1UZFdqdyj/view?usp=share_link), [`Data 2 - 2022 CPS-ASEC`](https://drive.google.com/file/d/1lsLzDo5rZEscLh4FrBumY4melCEoKrlC/view?usp=share_link)
+* [`Data 1: Historical SPM`](https://drive.google.com/file/d/14Hw9Z5zdIueeDLbc20FT94Q1UZFdqdyj/view?usp=share_link), [`Data 2: 2022 CPS-ASEC`](https://drive.google.com/file/d/1lsLzDo5rZEscLh4FrBumY4melCEoKrlC/view?usp=share_link)
 
 # Team members
 Jiwan Lee, Yihang Sun, and Eunho Cha

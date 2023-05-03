@@ -4,7 +4,7 @@ Project webpage: here <br>
 Video presentation: here 
 
 # Team members
-Eunho Cha, Jiwan Lee, and Yihang Sun
+Jiwan Lee, Yihang Sun, and Eunho Cha
 
 # Project description
 **Research Questions**

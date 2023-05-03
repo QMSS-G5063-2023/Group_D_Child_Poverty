@@ -2,6 +2,7 @@
 **Child poverty in the United States** <br>
 * [`Project webpage`](https://qmss-g5063-2023.github.io/Group_D_Child_Poverty/Final_poverty.html) <br>
 * [`Video presentation`](https://www.youtube.com/watch?v=LAvSCH9eQmg) <br>
+* [`Process book`](https://github.com/QMSS-G5063-2023/Group_D_Child_Poverty/blob/main/Process%20book/logseq_Process_book.png) <br>
 * [`Code`](https://github.com/QMSS-G5063-2023/Group_D_Child_Poverty/blob/main/Code/Final_poverty.rmd)
 
 # Team members

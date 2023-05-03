@@ -1,7 +1,8 @@
 # Group_D_Poverty
 Child poverty in the United States <br>
-Project webpage: here <br>
-Video presentation: here 
+* [`Project webpage`](https://qmss-g5063-2023.github.io/Group_D_Child_Poverty/Final_poverty.html) <br>
+* Video presentation: here 
+* [`Code`](https://github.com/QMSS-G5063-2023/Group_D_Child_Poverty/blob/main/Final_poverty.rmd) 
 
 # Team members
 Eunho Cha, Jiwan Lee, and Yihang Sun

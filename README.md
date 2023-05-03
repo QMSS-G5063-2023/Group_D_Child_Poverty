@@ -1,7 +1,7 @@
 # Group_D_Poverty
 **Child poverty in the United States** <br>
 * [`Project webpage`](https://qmss-g5063-2023.github.io/Group_D_Child_Poverty/Final_poverty.html) <br>
-* [`Video presentation`](https://www.youtube.com/watch?v=LAvSCH9eQmg) <br>
+* [`Video presentation`](https://youtu.be/2l8i25EzbL0) <br>
 * [`Process book`](https://github.com/QMSS-G5063-2023/Group_D_Child_Poverty/blob/main/Process%20book/logseq_Process_book.png) <br>
 * [`Code`](https://github.com/QMSS-G5063-2023/Group_D_Child_Poverty/blob/main/Code/Final_poverty.rmd) <br>
 * [`Data 1: Historical SPM`](https://drive.google.com/file/d/14Hw9Z5zdIueeDLbc20FT94Q1UZFdqdyj/view?usp=share_link), [`Data 2: 2022 CPS-ASEC`](https://drive.google.com/file/d/1lsLzDo5rZEscLh4FrBumY4melCEoKrlC/view?usp=share_link)

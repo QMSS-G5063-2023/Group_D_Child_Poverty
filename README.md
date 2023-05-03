@@ -5,10 +5,10 @@
 * [`Code`](https://github.com/QMSS-G5063-2023/Group_D_Child_Poverty/blob/main/Final_poverty.rmd)
 
 # Team members
-Eunho Cha, Jiwan Lee, and Yihang Sun
+Jiwan Lee, Yihang Sun, and Eunho Cha
 
 # Project description
-**Research Questions**
+**Research Questions** <br>
 This study aims to understand the temporal trends in the child poverty rate and the role of governmental efforts in reducing poverty. We ask three research questions:
 1. How has the child poverty rate changed over time between 1968 and 2020? Does the trend differ between families with and without children?
 2. How much each government program reduced child poverty rate? Is there difference between 1968 and 2020?
